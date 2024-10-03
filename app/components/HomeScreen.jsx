@@ -25,7 +25,7 @@ function HomeScreen() {
 
                 <Link
                     download
-                    href="/Zeeshan Jabbar.pdf"
+                    href="/Zeshan Jabbar.pdf"
                     target="_blank"
                     alt="zeeshan abduljabbar"
                     rel="noopener noreferrer"
