@@ -21,7 +21,7 @@ function HomeScreen() {
 
                 </div>
 
-                <p className=" text-[#ffffff92] text-justify pt-5" data-aos="fade-right">I&apos;m a passionate web developer with hands-on experience building dynamic and responsive web applications using React, Next.js, and MongoDB. My focus is on creating seamless user experiences with a clean, maintainable codebase, ensuring top-notch performance and scalability.</p>
+                <p className=" text-[#ffffff92] text-justify pt-5" data-aos="fade-right">"I'm a passionate Web Developer and AI Engineer with hands-on experience in building dynamic and responsive applications using React, Next.js, and MongoDB.Expanding beyond web development, I have strengthened my expertise through an AI course covering Machine Learning, Deep Learning, Generative AI, Agentic AI, and Data Science — empowering me to craft intelligent, scalable, and user-centric solutions.</p>
 
                 <Link
                     download
