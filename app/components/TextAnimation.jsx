@@ -7,6 +7,8 @@ function TextAnimation() {
     <TypeAnimation
     sequence={[
       // Same substring at the start will only be typed out once, initially
+      'AI Engineer',
+      1500, // wait 1s before replacing "Mice" with "Hamsters"
       'Web Developer',
       1500, // wait 1s before replacing "Mice" with "Hamsters"
       'Programmer',
