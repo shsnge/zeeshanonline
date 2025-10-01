@@ -28,7 +28,7 @@ function Services() {
                 <div>
                     <div className="bg-blue-700 hover:scale-110 transform transition-all duration-300 hover:rotate-6 uppercase text-center font-semibold p-[2rem] min-h-[380px]" data-aos="fade-left">
                         <Terminal className="w-[6rem] h-[6rem] mx-auto text-[#d3fae8]" />
-                        <h1 className="text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem]">FullStack </h1>
+                        <h1 className="text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem]">AI Agents & Automation </h1>
                         <p className="text-[15px] text-[#d3d2d2] font-normal">
                             Proficient in integrating front and back-end technologies to create fully functional and optimized web applications.
                         </p>
